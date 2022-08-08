@@ -1,0 +1,333 @@
+you're on the back deck with a cold
+
+drink grilling up a dead animal when it
+
+hits you did you forget to pick up the
+
+kids no you forgot the tech news you
+
+don't even have kids or a deck whose
+
+grill is this in its q2 earnings call
+
+intel sheepishly admitted it's
+
+completely giving up on optane when
+
+asked about it by tom's hardware ceo pat
+
+gelsinger beat around the bush saying we
+
+continue to rationalize our portfolio in
+
+support of our idm 2.0 strategy this
+
+includes evaluating divesting businesses
+
+that are either not sufficiently
+
+profitable or are not core to our
+
+strategic objectives truly a great
+
+eulogy if i've ever heard one optane
+
+memory had been used to create storage
+
+and memory products since 2015 but they
+
+discontinued consumer ssds in january
+
+2021 to focus on enterprise products
+
+like persistent ram for data centers
+
+and i guess the team didn't even know
+
+because just last week they showed off
+
+initial tests of their new ddr5 obtained
+
+modules which carried the foreboding
+
+code name crowspass
+
+they're passed now as gelsinger pointed
+
+out in the call this marks the sixth
+
+non-core intel business that he's either
+
+sold or shuttered since taking on the
+
+role of ceo in february 2021 including
+
+selling intel's drone business to elon
+
+musk's brother kimball a few weeks ago
+
+gelsinger has not yet commented whether
+
+he plans to don a long black robe and
+
+scythe to future quarterly earnings
+
+calls
+
+and more intel news their foray into
+
+dedicated graphics has apparently come
+
+at the expense of support for their
+
+integrated gpus through a post on the
+
+intel support forums it was announced
+
+that integrated graphics from their 6th
+
+generation skylake cpus all the way to
+
+ice lake would be moved into their
+
+legacy support model which is the driver
+
+equivalent of that scene from toy story
+
+2 where andy gets buzz lightyear and no
+
+longer wants to play with woody
+
+integrated graphics are woody i don't
+
+want to play with you anymore amd might
+
+have just doxxed their starting lineup
+
+for the new am5 socketed ryzen 7000
+
+processors according to video cards the
+
+ryzen 9 7950x and 7900x
+
+ryzen 7 700x and ryzen 5 7600x were all
+
+tagged in the marketing resource file
+
+for ryzen pro cpu
+
+mysteriously absent were the ryzen 7 70
+
+800 x and any mention of a ryzen 3 cpu
+
+but only starting with four processors
+
+really keeps with the ninja turtles
+
+theme of the 7000 series with am5 no
+
+longer on the horizon but instead
+
+hanging just out of reach like some sort
+
+of cruel cpu pinata is it time we ask
+
+ourselves if we actually need that much
+
+computer
+
+at computex back in may amd shared
+
+benchmarks of some rafael cpus and let
+
+the world know to expect processors that
+
+use 170 watt tdps and it appears these
+
+ryzen 9s are the processors they were
+
+referring to since nvidia's upcoming
+
+4000 series of gpus are already expected
+
+to be guzzling back double the amount of
+
+juicy delicious electrons as their 3000
+
+series counterparts this could be
+
+setting a dangerous precedent for gaming
+
+pcs where power efficiency takes a back
+
+seat to
+
+well everything else your next
+
+beautifully ray tracing 8k 200 fps
+
+minecraft machine
+
+could spend as much energy punching
+
+virtual dirt for an hour as an electric
+
+kettle used to quench the thirst of 75
+
+tea addicted british ditch diggers
+
+but hey don't feel too guilty because
+
+it's time for quick bits brought to you
+
+by riley now it's time for quick bits
+
+brought to you by magic spoon the
+
+company changing the cereal game with
+
+their healthy yet delicious cereals you
+
+thought it was impossible but no we're
+
+talking zero sugar 13 to 14 grams of
+
+protein and only four to five grams of
+
+carbs per serving that works out to just
+
+140 calories and makes magic spoon keto
+
+friendly gluten free grain free soy free
+
+and low carb their variety pack features
+
+four delicious flavors cocoa fruity
+
+frosted and peanut butter i've tried
+
+them all they taste just like cereal
+
+that is much much worse for you so it
+
+makes sense that magic spoons got a 100
+
+happiness guarantee if you don't like it
+
+for any reason they'll refund your money
+
+no questions asked so to get five
+
+dollars off click the link below and use
+
+code tech linked or go to magicspoon.com
+
+techlink and have a bowl without feeling
+
+bad now it's time for the james bits
+
+what earlier this week russia announced
+
+they were done with the international
+
+space station as soon as their
+
+cooperation agreement was up in 2024 but
+
+now they're saying i guess it's good
+
+enough until we get our own russia space
+
+agency ross cosmos has indicated that
+
+they wish to remain in the cooperative
+
+agreement until their own orbital
+
+outpost named ross is completed
+
+estimates for this happening are
+
+sometime around 2028 quickly followed by
+
+the launch of course of their next space
+
+stations phoebe chandler monica joey and
+
+one that's always really cold you can
+
+see them through her shirt
+
+a mechanical engineer from virginia tech
+
+found that by coupling a retractive
+
+adhesive with a pneumatically controlled
+
+membrane they were able to create a
+
+glove that mimics an octopuses gripping
+
+abilities finally
+
+the octoglove yes that's the real name
+
+was demonstrated to be able to grip
+
+things like metals acrylic and even
+
+plates and spoons all while under water
+
+just in case you've been hankering to
+
+finally have a picnic under the sea it
+
+has unfortunately not yet been designed
+
+for people with eight fingers
+
+and going from handware to neckwear
+
+manchester city football club has
+
+launched a pilot program for a biometric
+
+scarf that can gauge its fans emotions
+
+partnering with emotibit and cisco the
+
+connected scarf measures things like
+
+heart rate movement sweat levels and
+
+temperature if they really wanted to
+
+know how fans felt though all they'd
+
+really need to do is include a
+
+breathalyzer am i right i'm british
+
+amazon announced that they will no
+
+longer be offering their amazon drive
+
+cloud storage service as of december
+
+31st 2023 and apps for android and ios
+
+will be removed on october 31st of this
+
+year this will give users just enough
+
+time to find out that amazon has a cloud
+
+storage service
+
+hey and that's our show come back on
+
+monday when we have more tech news from
+
+linus's home
+
+bye
