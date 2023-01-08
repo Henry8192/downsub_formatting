@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include <stdlib.h>
 #include <string.h>
 int main() {
-    char str[60];
+    char* str = malloc(60*sizeof(char));
     FILE* fp, * dest;
 
     /* opening file for reading */
@@ -14,9 +15,11 @@ int main() {
     }
     while (fgets(str, 60, fp) != NULL) {
         if (str[0] == '\n') continue;
-        str[strlen(str) - 1] = '\0';
+        str[strlen(str) - 2] = '\0';
         fprintf(dest, "%s ", str);
+        memset(str, '\0', sizeof(str));
     }
     fclose(fp);
+    free(str);
     return 0;
 }
